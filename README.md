@@ -77,7 +77,7 @@
 	
 		<div id="content">
 		<h2>Klub piłkarski - klub sportowy, którego głównym i najczęściej jedynym celem jest udział w rozgrywkach piłkarskich, organizowanych pod egidą konkretnej federacji (krajowej, bądź kontynentalnej – rzadziej światowej) w stosownej kategorii wiekowej, płci i statusie zrzeszonych w nim osób. Obecnie, kluby piłkarskie są najczęściej klubami jednosekcyjnymi (typowo piłkarskimi), choć mogą również stanowić jedną z sekcji klubu wielosekcyjnego (sekcję piłkarską).</h2><br><br/><br/>
-		<center><img src="img/klub.jpg"/>
+		<center><img src="klub.jpg">
 		</div>
 		
 		
